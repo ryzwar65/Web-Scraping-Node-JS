@@ -1,0 +1,14 @@
+{
+  "name": "web-scrapper-nodejs",
+  "version": "1.0.0",
+  "description": "web scrapping",
+  "main": "index.js",
+  "author": "Riyanwar Setiadi",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^13.6.0",
+    "request": "^2.88.2",
+    "shelljs": "^0.8.5"
+  }
+}
